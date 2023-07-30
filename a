@@ -1,2 +1,1 @@
-1test.txt
-abdc_test
+print("File A")
